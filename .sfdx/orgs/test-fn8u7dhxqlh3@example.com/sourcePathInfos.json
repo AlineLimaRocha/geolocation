@@ -2,14 +2,14 @@
     [
         "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app",
         {
-            "state": "n",
             "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1548119125683,
             "changeTime": 1548119125683,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main",
         {
-            "state": "n",
             "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1548119125683,
             "changeTime": 1548119125683,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -36,183 +36,441 @@
             "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 192,
-            "modifiedTime": 1548119465875,
-            "changeTime": 1548119465875,
-            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a"
+            "size": 288,
+            "modifiedTime": 1548122833130,
+            "changeTime": 1548122833130,
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
         "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/aura",
         {
-            "state": "n",
             "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/aura",
             "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1548122527421,
+            "changeTime": 1548122527421,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isMetadataFile": false,
-            "size": 64,
-            "modifiedTime": 1548119125683,
-            "changeTime": 1548119125683,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "/Users/alinelimarocha/Documents/Salesforce/geolocation",
         {
-            "state": "n",
             "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation",
             "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1548121337278,
+            "changeTime": 1548121337278,
+            "contentHash": "b500e0cc0fe528e3c3beb5f312ce13c9ab3dbcb9",
             "isMetadataFile": false,
-            "size": 256,
-            "modifiedTime": 1548119188315,
-            "changeTime": 1548119188315,
-            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
         "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/objects/Account/fields/Geolocation__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/objects/Account/fields/Geolocation__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 409,
             "modifiedTime": 1548119465857,
             "changeTime": 1548119465857,
-            "contentHash": "e2b6b79bde30e8133dada9ad2c5e6aa595ddc450"
+            "contentHash": "e2b6b79bde30e8133dada9ad2c5e6aa595ddc450",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9585,
             "modifiedTime": 1548119465863,
             "changeTime": 1548119465863,
-            "contentHash": "8da3a2e4e2726f6d8314e16293d04be63d5a7e4a"
+            "contentHash": "8da3a2e4e2726f6d8314e16293d04be63d5a7e4a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9585,
             "modifiedTime": 1548119465868,
             "changeTime": 1548119465868,
-            "contentHash": "c6ced8d0d1a237bb4de0a95c9354602c0993d676"
+            "contentHash": "c6ced8d0d1a237bb4de0a95c9354602c0993d676",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9633,
             "modifiedTime": 1548119465871,
             "changeTime": 1548119465871,
-            "contentHash": "358497af09fdc47898971cdfdda8df83a9394877"
+            "contentHash": "358497af09fdc47898971cdfdda8df83a9394877",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9633,
             "modifiedTime": 1548119465874,
             "changeTime": 1548119465874,
-            "contentHash": "f2d4ee8ae8e2736caa0b42260527ef31ca335afa"
+            "contentHash": "f2d4ee8ae8e2736caa0b42260527ef31ca335afa",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 704,
             "modifiedTime": 1548119465875,
             "changeTime": 1548119465875,
-            "contentHash": "f865cb768fd66cf4434c2f6f06ec7ee8fbe6e5fe"
+            "contentHash": "f865cb768fd66cf4434c2f6f06ec7ee8fbe6e5fe",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/objects/Account/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1548119465857,
             "changeTime": 1548119465857,
-            "contentHash": "ce06810b1370ee18db3a024c8e13fe0221159f67"
+            "contentHash": "ce06810b1370ee18db3a024c8e13fe0221159f67",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/objects/Account",
         {
-            "state": "u",
             "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/objects/Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1548119465856,
             "changeTime": 1548119465856,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1548119465856,
             "changeTime": 1548119465856,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/layouts",
         {
-            "state": "u",
             "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1548119465874,
             "changeTime": 1548119465874,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/permissionsets",
         {
-            "state": "u",
             "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1548119465875,
             "changeTime": 1548119465875,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1548122294794,
+            "changeTime": 1548122294794,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/classes/AccountController.cls",
+        {
+            "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/classes/AccountController.cls",
+            "isDirectory": false,
+            "size": 304,
+            "modifiedTime": 1548122472819,
+            "changeTime": 1548122472819,
+            "contentHash": "20c1fcf6fca27619efc12d1ad1e154a0491f37a7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1548122294794,
+            "changeTime": 1548122295788,
+            "contentHash": "90ff74999c0787540fd47c4052e748cca6ee6e47",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/aura/AccountLocator",
+        {
+            "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1548122527424,
+            "changeTime": 1548122527424,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+        {
+            "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1548122527423,
+            "changeTime": 1548122528201,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "size": 155,
+            "modifiedTime": 1548122629150,
+            "changeTime": 1548122629150,
+            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1548122527421,
+            "changeTime": 1548122528159,
+            "contentHash": "031f43b37d7bb45e1a9e19859d572e3a7f2d1d85",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "size": 129,
+            "modifiedTime": 1548122644359,
+            "changeTime": 1548122644359,
+            "contentHash": "85b104cc64abfbfc4c3db17ed3f6622f68ff6797",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+        {
+            "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1548122527424,
+            "changeTime": 1548122528208,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+        {
+            "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1548122527423,
+            "changeTime": 1548122528193,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1548122527422,
+            "changeTime": 1548122528165,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1548122527422,
+            "changeTime": 1548122528171,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1548122527423,
+            "changeTime": 1548122528186,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1548122833128,
+            "changeTime": 1548122833128,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+        }
+    ],
+    [
+        "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5016,
+            "modifiedTime": 1548122833131,
+            "changeTime": 1548122833131,
+            "contentHash": "b2b544ad2e99c14072e4bfdeb68699b788f40af7"
+        }
+    ],
+    [
+        "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18199,
+            "modifiedTime": 1548122833142,
+            "changeTime": 1548122833142,
+            "contentHash": "5123388c414ceef0986f36f8d529b47c9abf733d"
+        }
+    ],
+    [
+        "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4676,
+            "modifiedTime": 1548122833145,
+            "changeTime": 1548122833145,
+            "contentHash": "fd1e6c74f4e46833342e9c7c9d74cc3af3fded29"
+        }
+    ],
+    [
+        "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4680,
+            "modifiedTime": 1548122833147,
+            "changeTime": 1548122833147,
+            "contentHash": "87ba65b89e99b40ff6ed5546407705fc6a63aaa5"
+        }
+    ],
+    [
+        "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1548122833127,
+            "changeTime": 1548122833127,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+        }
+    ],
+    [
+        "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/alinelimarocha/Documents/Salesforce/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1548122833147,
+            "changeTime": 1548122833147,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
